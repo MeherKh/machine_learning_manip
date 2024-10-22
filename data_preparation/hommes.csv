@@ -1,0 +1,524 @@
+id_etudiant,prenom_etudiant,nom_etudiant,sex,date_naissance,mention,specialite,frais_scolarite,cours_rate,date_debut,date_sortie,new_frais_scolarite
+98,Obadiah,Roja,M,29/5/1998,trés bien,Licence-IT,4988.94,0,2/1/2016,1/7/2021,4888.94
+647,Connor,Hailston,M,16/3/1994,trés bien,ING-IT,4987.89,8,2/26/2016,1/28/2024,4887.89
+22,Clevey,Mollon,M,3/10/1995,faible,Licence-IT,4986.25,1,2/2/2017,2/27/2022,4886.25
+346,Kendell,Boldt,M,24/9/1990,bien,Business,4965.71,9,11/25/2017,7/8/2020,4865.71
+537,Silvio,McDirmid,M,10/3/1998,trés bien,Business,4958.09,8,11/22/2017,6/8/2023,4858.09
+696,Jimmy,Gutsell,M,11/12/2000,trés bien,Licence-IT,4956.28,6,10/1/2016,4/27/2023,4856.28
+247,Dwight,Ferriby,M,19/7/1996,bien,ING-IT,4948.22,0,2/9/2017,7/15/2020,4848.22
+514,Van,Dawidowsky,M,24/4/1991,faible,ING-IT,4947.9,9,3/23/2017,8/27/2024,4847.9
+109,Gan,Janeczek,M,28/2/1997,bien,ING-IT,4946.14,10,7/1/2017,5/17/2020,4846.14
+825,Colan,Hartell,M,3/1/2000,passable,Licence-IT,4928.95,10,6/1/2017,6/21/2022,4828.95
+907,Farlee,Garraway,M,28/9/1992,faible,Prepa,4915.43,9,3/18/2018,8/28/2023,4815.43
+430,Nevin,D'Andrea,M,2/1/1993,bien,Licence-IT,4899.91,10,5/7/2018,3/4/2021,4799.91
+574,Harrison,Rowswell,M,27/2/2000,passable,ING-IT,4899.58,6,12/28/2015,10/1/2022,4799.58
+671,Guilbert,Bosomworth,M,10/4/2004,bien,Licence-IT,4896.89,2,9/27/2016,3/11/2020,4796.89
+889,Felike,Corson,M,16/1/1996,trés bien,Business,4894.16,8,3/24/2018,7/14/2020,4794.16
+545,Garold,Christon,M,4/2/2000,trés bien,Licence-IT,4867.45,2,12/17/2017,12/16/2023,4767.45
+898,Arvie,Hawse,M,7/1/1991,trés bien,ING-IT,4847.13,3,3/10/2017,3/7/2020,4747.13
+835,Cosimo,Gerhardt,M,12/6/1997,bien,ING-IT,4843.09,2,12/19/2017,7/25/2023,4743.09
+188,Sammie,Tunnacliffe,M,5/8/1996,trés bien,Licence-IT,4834.83,7,10/2/2016,5/20/2024,4734.83
+621,Damian,Armitage,M,28/12/1995,passable,ING-IT,4812.9,0,2/1/2016,3/2/2022,4712.9
+754,Ivor,Boldero,M,18/12/1998,bien,Licence-IT,4809.58,10,3/25/2017,10/6/2024,4709.58
+222,Don,Garling,M,15/12/1999,faible,Business,4808.13,5,2/13/2018,5/15/2022,4708.13
+829,Culver,Hatwells,M,22/11/1993,faible,Business,4807.54,7,6/3/2016,1/28/2020,4707.54
+85,Marty,Kits,M,1/4/1995,bien,Licence-IT,4803.73,10,5/16/2016,1/13/2024,4703.73
+219,Vince,Pickworth,M,16/7/1992,faible,Business,4800.06,10,12/30/2016,7/3/2024,4700.06
+117,Mahmoud,Blondin,M,3/8/2004,faible,Business,4796.02,3,11/4/2017,1/12/2020,4696.02
+348,Jermayne,Toplis,M,15/9/1993,bien,Business,4794.52,6,9/10/2018,5/29/2024,4694.52
+482,Pascal,Fusedale,M,21/7/1998,passable,Licence-IT,4793.81,6,9/24/2018,9/23/2022,4693.81
+291,Orren,Moir,M,6/11/1992,faible,ING-IT,4790.07,10,9/12/2018,2/16/2020,4690.07
+446,Rob,Domm,M,18/4/1992,bien,Business,4788.95,1,3/10/2018,3/12/2023,4688.95
+698,Roi,Gilhooley,M,18/11/1994,passable,ING-IT,4784.66,9,10/25/2017,7/11/2024,4684.66
+375,Winthrop,Gwillyam,M,4/1/1998,faible,Licence-IT,4784.31,2,4/22/2017,1/15/2020,4684.31
+783,Keelby,Lock,M,27/5/1997,faible,Prepa,4783.77,6,9/25/2018,12/30/2020,4683.77
+338,Jeth,Giacomuzzo,M,8/9/2000,faible,Prepa,4782.91,7,1/17/2017,7/25/2020,4682.91
+411,Allie,Akram,M,18/2/2003,trés bien,ING-IT,4771.33,0,9/28/2016,1/23/2020,4671.33
+16,Virge,Neem,M,4/2/1999,trés bien,Licence-IT,4755.56,7,1/15/2016,5/6/2024,4655.56
+453,Butch,Brandsen,M,25/6/2003,trés bien,Prepa,4733.9,7,1/18/2017,6/30/2023,4633.9
+382,Shermy,Elverston,M,15/4/1993,passable,Prepa,4715.56,6,9/1/2018,3/9/2021,4615.56
+122,Waylan,Nesbeth,M,19/7/2000,bien,ING-IT,4714.19,8,3/9/2017,4/8/2021,4614.19
+394,Gerrard,Balsdone,M,22/8/1999,faible,Prepa,4712.43,4,8/4/2018,10/12/2020,4612.43
+304,Oswell,Helbeck,M,25/7/1999,passable,ING-IT,4711.17,5,7/8/2017,4/28/2023,4611.17
+702,Humphrey,McGooch,M,12/12/1991,passable,Business,4697.47,6,2/27/2018,8/8/2024,4597.47
+546,Jody,Sherborn,M,9/4/2002,trés bien,Business,4689.62,8,5/15/2017,2/17/2024,4589.62
+911,Geordie,Bumphries,M,10/6/1997,bien,Licence-IT,4687.17,8,11/7/2017,1/27/2024,4587.17
+562,Leonerd,Barry,M,29/10/1996,trés bien,ING-IT,4686.43,10,6/5/2016,8/23/2022,4586.43
+558,Rutledge,Rookeby,M,19/7/1992,bien,Prepa,4686.03,1,8/13/2018,3/19/2022,4586.03
+793,Hugh,Upchurch,M,2/2/2003,bien,Prepa,4682.07,0,10/22/2016,5/7/2021,4582.07
+167,Carney,Foucard,M,27/8/2004,faible,Licence-IT,4681.8,4,3/12/2016,8/15/2023,4581.8
+934,Joseph,Merwood,M,15/4/1991,bien,Business,4664.66,10,2/28/2018,9/6/2022,4564.66
+66,Jamil,Pattesall,M,16/1/1995,trés bien,Prepa,4663.22,3,1/9/2017,10/19/2024,4563.22
+595,Dave,O' Quirk,M,6/3/2003,passable,ING-IT,4658.5,5,3/14/2017,11/3/2021,4558.5
+427,Boigie,Logesdale,M,21/9/2004,passable,Business,4654.15,5,9/30/2018,1/11/2020,4554.15
+603,Sylas,Pembridge,M,18/1/1995,trés bien,Business,4652.57,5,1/12/2016,4/29/2022,4552.57
+974,Felipe,Bwye,M,20/2/1990,faible,Prepa,4648.5,0,8/9/2017,7/12/2024,4548.5
+875,Scottie,Ratcliffe,M,5/9/2004,bien,Business,4646.77,5,11/13/2016,5/15/2023,4546.77
+785,Martie,Kyte,M,5/10/2003,faible,Prepa,4645.85,10,1/4/2018,11/30/2019,4545.85
+664,Jacques,Scocroft,M,12/7/1996,passable,Prepa,4643.25,4,12/6/2015,8/9/2020,4543.25
+914,Kirk,Rapi,M,2/2/2004,bien,Prepa,4621.98,7,3/13/2017,3/23/2020,4521.98
+477,Gardener,Anster,M,25/12/2001,bien,Licence-IT,4615.4,7,8/26/2016,6/30/2024,4515.4
+492,Jude,Darrell,M,24/11/2002,bien,ING-IT,4612.25,8,5/21/2016,11/1/2021,4512.25
+834,Jeth,Niland,M,4/10/1992,faible,ING-IT,4609.7,10,2/14/2017,7/15/2024,4509.7
+331,Herrick,McRobert,M,11/6/2000,faible,Business,4606.51,10,3/20/2017,10/1/2024,4506.51
+251,Bern,Emons,M,11/1/1993,passable,ING-IT,4606.0,4,8/11/2018,12/6/2021,4506.0
+61,Hasty,Lakey,M,26/10/1994,faible,Business,4598.88,10,6/17/2017,1/16/2023,4498.88
+409,Ivan,Niese,M,26/7/1991,bien,ING-IT,4578.19,1,8/30/2017,4/6/2023,4478.19
+729,Abba,Bassick,M,19/6/1991,faible,Prepa,4576.0,4,8/25/2018,8/6/2021,4476.0
+354,Jake,Warlton,M,12/6/1999,trés bien,Licence-IT,4571.96,8,4/23/2018,1/7/2021,4471.96
+686,Jacobo,Odell,M,14/7/1997,trés bien,Licence-IT,4562.63,9,4/28/2017,4/21/2021,4462.63
+620,Mendy,Capron,M,11/3/1990,bien,ING-IT,4557.12,7,6/21/2018,9/3/2021,4457.12
+254,Odo,Canty,M,4/4/2003,trés bien,Business,4552.37,4,8/14/2017,7/25/2024,4452.37
+722,Manny,Healings,M,25/2/1994,faible,ING-IT,4548.88,6,1/25/2016,10/2/2024,4448.88
+677,Bradney,Ockendon,M,4/8/1992,faible,ING-IT,4547.8,10,2/26/2018,4/19/2022,4447.8
+452,Delainey,Kos,M,21/11/1998,trés bien,Licence-IT,4545.43,10,9/11/2017,7/10/2021,4445.43
+289,Orbadiah,Goosey,M,23/9/2002,passable,Business,4543.82,4,11/5/2018,9/28/2020,4443.82
+350,Aloin,Akers,M,12/2/1993,faible,Licence-IT,4542.93,0,11/5/2018,6/23/2021,4442.93
+112,Dilan,Jeanin,M,13/9/2003,faible,Prepa,4530.44,9,9/11/2017,6/26/2020,4430.44
+652,Inigo,MacCauley,M,13/7/2005,passable,Prepa,4526.63,2,12/15/2015,3/14/2024,4426.63
+352,Enoch,McCurtain,M,22/12/1999,trés bien,ING-IT,4524.84,2,8/11/2017,9/13/2021,4424.84
+183,Fidole,Dewfall,M,20/10/2001,faible,Licence-IT,4523.56,6,8/11/2016,4/5/2024,4423.56
+801,Isaiah,Pechacek,M,31/8/1990,passable,Business,4522.22,0,9/9/2016,11/23/2023,4422.22
+757,Baldwin,O' Neligan,M,17/4/2000,trés bien,Business,4519.41,4,12/3/2017,11/27/2023,4419.41
+582,Beck,Growcott,M,11/9/2003,bien,ING-IT,4519.38,9,1/19/2018,9/21/2023,4419.38
+635,Arne,Dumpleton,M,4/3/2001,faible,Business,4516.2,4,5/27/2016,11/1/2024,4416.2
+400,Cyrille,Franchioni,M,31/7/2002,passable,Licence-IT,4507.61,1,7/23/2018,10/31/2024,4407.61
+873,Stan,Hefforde,M,16/7/2003,bien,Prepa,4487.07,5,10/11/2016,3/2/2020,4387.07
+955,Ricard,Spadollini,M,29/8/2004,passable,Licence-IT,4487.03,2,12/4/2015,5/29/2021,4387.03
+230,Elliott,Mengo,M,22/1/1993,faible,Prepa,4483.31,10,3/6/2017,9/25/2022,4383.31
+707,Dagny,MacCaghan,M,7/5/2005,trés bien,Licence-IT,4478.47,7,3/13/2018,1/19/2022,4378.47
+899,Shurwood,Summerton,M,4/2/2000,passable,Business,4470.59,5,6/12/2016,11/4/2022,4370.59
+319,Georges,Newbatt,M,24/12/2002,passable,ING-IT,4458.01,2,10/6/2017,6/27/2020,4358.01
+797,Stevy,Don,M,24/1/1994,trés bien,Prepa,4457.12,5,8/6/2018,7/27/2024,4357.12
+324,Wilbur,Henrys,M,28/12/1995,passable,ING-IT,4449.18,6,11/8/2016,2/21/2023,4349.18
+48,Obediah,Coleshill,M,21/2/1991,bien,Licence-IT,4445.13,0,1/18/2016,4/15/2021,4345.13
+407,Erick,Petera,M,23/6/2005,bien,Licence-IT,4445.02,1,4/3/2016,12/5/2022,4345.02
+139,Lee,Wimmer,M,28/10/2000,passable,Business,4439.99,6,12/28/2017,9/21/2022,4339.99
+280,Rolland,Logsdail,M,11/8/1997,trés bien,Business,4439.82,3,1/7/2018,10/17/2024,4339.82
+9,Federico,Rudham,M,10/4/1993,trés bien,ING-IT,4436.9,7,6/18/2018,6/15/2021,4336.9
+58,Hakeem,Shayler,M,2/5/2003,faible,Licence-IT,4435.38,9,2/4/2018,10/11/2022,4335.38
+96,Cazzie,Pygott,M,21/12/1995,faible,Prepa,4432.06,2,9/3/2018,4/28/2020,4332.06
+366,Hirsch,Neno,M,17/11/1999,passable,Prepa,4414.04,1,8/20/2017,2/9/2020,4314.04
+372,Natal,Rigler,M,23/5/2002,faible,Business,4413.59,8,12/3/2016,1/14/2021,4313.59
+417,Witty,Statton,M,21/4/1997,passable,Prepa,4413.49,1,5/22/2018,12/18/2019,4313.49
+351,Gayler,Cowup,M,16/1/1998,bien,ING-IT,4409.74,2,2/16/2016,2/11/2024,4309.74
+547,Edan,Langdale,M,5/3/1996,bien,Business,4408.4,9,6/1/2016,5/12/2022,4308.4
+52,Harlin,Wymer,M,7/10/2004,faible,Licence-IT,4407.14,0,2/14/2016,10/25/2023,4307.14
+316,Gordon,Golde,M,8/2/1991,trés bien,Licence-IT,4400.04,9,10/13/2018,7/26/2024,4300.04
+848,Goran,Kornel,M,3/3/1992,faible,Prepa,4397.33,7,7/5/2018,4/28/2021,4297.33
+233,Silvan,Pourvoieur,M,14/12/1998,trés bien,ING-IT,4395.13,2,1/20/2017,6/15/2020,4295.13
+341,Waldon,Dowson,M,1/11/1999,passable,Licence-IT,4392.44,10,3/7/2017,2/13/2024,4292.44
+271,Frasquito,Gregolin,M,22/2/2001,bien,Licence-IT,4378.79,1,2/19/2016,9/15/2022,4278.79
+739,Fredek,Ericssen,M,1/8/1990,bien,ING-IT,4336.08,10,3/20/2018,1/14/2023,4236.08
+53,Rafael,Freathy,M,22/2/2001,faible,Business,4331.43,10,7/3/2016,12/17/2023,4231.43
+841,Pieter,Moors,M,12/11/2004,bien,Licence-IT,4330.5,7,4/18/2018,2/3/2022,4230.5
+414,Dalli,Faithfull,M,14/8/1994,faible,Business,4320.88,1,10/4/2018,2/24/2024,4220.88
+727,Timoteo,Brogan,M,21/3/2001,trés bien,Licence-IT,4317.42,0,8/2/2016,5/18/2020,4217.42
+742,Stanton,Siddele,M,21/4/1997,bien,ING-IT,4295.79,8,5/14/2018,9/18/2023,4195.79
+27,James,Dobkin,M,11/2/1996,passable,ING-IT,4293.97,0,2/27/2016,8/18/2021,4193.97
+724,Baily,Sawell,M,28/6/2004,faible,Prepa,4281.19,9,5/23/2017,1/13/2021,4181.19
+100,Halsy,Lease,M,17/12/1998,trés bien,Licence-IT,4264.17,7,9/5/2017,12/23/2021,4164.17
+880,Harland,Le Gallo,M,11/4/1994,faible,Licence-IT,4258.9,3,3/26/2016,8/4/2021,4158.9
+419,Arne,Jayes,M,19/10/1995,trés bien,Business,4258.75,1,1/23/2017,7/17/2024,4158.75
+773,Dougy,McGilben,M,26/10/2002,passable,ING-IT,4256.45,4,7/24/2017,6/6/2020,4156.45
+260,Benjamin,Kingcott,M,15/11/1996,bien,Licence-IT,4241.0,10,2/27/2017,10/3/2024,4141.0
+236,Jeremy,Aliman,M,3/2/1992,faible,Prepa,4230.64,10,11/4/2016,1/16/2022,4130.64
+363,Ludovico,Parslow,M,25/8/1992,passable,Licence-IT,4206.15,3,11/19/2017,11/5/2020,4106.15
+815,Antoine,Dunsire,M,14/8/2003,faible,Licence-IT,4201.54,6,11/11/2017,5/16/2021,4101.54
+869,Elijah,Vaughn,M,27/4/1997,faible,Licence-IT,4200.39,1,1/17/2017,3/31/2021,4100.39
+597,Lorry,Harbison,M,28/10/1996,passable,Prepa,4198.13,0,4/9/2016,5/12/2023,4098.13
+999,Lucius,Erswell,M,25/10/2004,faible,ING-IT,4184.08,1,11/15/2017,7/27/2023,4084.08
+933,Sky,Abrahamovitz,M,14/12/2002,passable,Licence-IT,4180.88,3,2/25/2017,11/17/2022,4080.88
+678,Ailbert,Rourke,M,27/5/1993,bien,Licence-IT,4175.2,7,12/17/2016,7/13/2024,4075.2
+56,Neils,Mogey,M,29/12/2003,trés bien,Licence-IT,4170.63,7,10/26/2016,1/17/2024,4070.63
+715,Cesar,Blamey,M,10/12/1997,faible,ING-IT,4168.62,6,6/13/2018,9/19/2022,4068.62
+491,Filippo,Andrioletti,M,22/8/2005,passable,Business,4167.75,10,8/24/2016,8/5/2024,4067.75
+890,Nelson,Panks,M,28/12/2004,passable,Licence-IT,4167.37,8,7/26/2018,6/18/2020,4067.37
+235,Irvin,Pardew,M,25/9/2003,bien,ING-IT,4165.94,3,10/16/2017,1/25/2022,4065.9399999999996
+743,Haslett,O'Giany,M,21/4/2004,passable,ING-IT,4145.23,6,9/30/2018,12/6/2023,4045.2299999999996
+226,Thor,Reese,M,2/12/2003,bien,Business,4131.41,9,12/28/2016,5/1/2024,4031.41
+433,Mickey,Arnholtz,M,14/5/1991,bien,Prepa,4129.48,4,9/24/2017,8/1/2023,4029.4799999999996
+714,Vernen,De Lisle,M,8/12/2004,bien,Licence-IT,4129.01,7,10/9/2018,1/25/2023,4029.01
+21,Wakefield,Bleaden,M,1/12/1995,bien,Licence-IT,4120.44,1,9/15/2016,6/5/2020,4020.4399999999996
+140,Penny,Taggerty,M,4/6/2005,trés bien,Business,4118.77,3,11/16/2017,2/24/2021,4018.7700000000004
+151,Lock,Jedrzejkiewicz,M,26/7/1993,passable,Licence-IT,4113.43,6,2/2/2018,8/30/2023,4013.4300000000003
+479,Shepard,Dougan,M,2/2/2004,bien,ING-IT,4112.52,5,8/31/2018,2/28/2021,4012.5200000000004
+734,Yehudit,Greschke,M,6/12/1992,passable,Licence-IT,4105.42,3,4/8/2018,10/12/2024,4005.42
+68,Erv,Tinan,M,25/5/1992,passable,Business,4094.15,4,11/2/2016,11/17/2024,3994.15
+648,Theodore,Maccaig,M,15/6/1991,passable,Business,4093.52,1,8/29/2018,9/25/2020,3993.52
+631,Russ,Blucher,M,27/10/1998,bien,Business,4091.91,9,8/11/2018,9/7/2023,3991.91
+121,Mateo,Gullefant,M,17/9/1993,faible,ING-IT,4090.18,9,11/23/2017,3/31/2020,3990.18
+344,Sherm,Jeratt,M,18/3/1994,trés bien,Prepa,4086.76,10,10/26/2018,11/25/2021,3986.76
+846,Jarvis,Ivanonko,M,14/7/1991,trés bien,Licence-IT,4086.65,0,4/5/2016,3/3/2020,3986.65
+426,Marc,Spurryer,M,13/10/2004,passable,Business,4086.54,8,12/25/2017,7/10/2020,3986.54
+570,Morlee,Duckering,M,13/8/1990,trés bien,Prepa,4070.76,6,3/29/2016,7/31/2023,3970.76
+253,Braden,Fanthome,M,4/8/1998,trés bien,Prepa,4070.51,2,4/20/2017,10/14/2022,3970.51
+62,Normy,Stoneham,M,16/10/1990,bien,Business,4070.34,9,9/26/2017,4/18/2022,3970.34
+381,Rupert,Lye,M,11/11/1999,trés bien,Licence-IT,4062.65,3,8/9/2016,10/20/2021,3962.65
+364,Horst,Fyfe,M,3/5/1993,trés bien,Business,4061.56,1,2/11/2016,9/24/2024,3961.56
+886,Brig,Stanner,M,25/6/1997,faible,Business,4052.44,0,2/2/2016,3/22/2022,3952.44
+15,Richy,Petricek,M,23/3/1996,trés bien,Prepa,4036.03,4,1/8/2016,9/26/2024,3936.03
+146,Roberto,Willgoose,M,15/8/1992,passable,Licence-IT,4028.49,10,6/13/2017,11/20/2020,3928.49
+968,Bucky,Kleinhaus,M,20/9/1998,trés bien,Licence-IT,4025.63,2,3/13/2016,11/21/2020,3925.63
+662,Brady,Lowndes,M,14/11/2000,passable,Prepa,3999.17,9,8/10/2016,3/30/2021,3899.17
+764,Barnaby,Dufoure,M,29/4/1997,trés bien,Prepa,3988.46,9,12/20/2015,6/12/2021,3888.46
+126,Gradey,Manwaring,M,16/9/2004,passable,Prepa,3984.79,6,4/17/2016,8/12/2022,3884.79
+928,Carl,Musker,M,7/9/2000,trés bien,ING-IT,3984.43,9,7/31/2018,10/11/2021,3884.43
+979,Jared,Inold,M,23/5/1997,bien,Prepa,3975.65,5,7/1/2016,6/24/2024,3875.65
+755,Eustace,Coupar,M,16/12/1996,trés bien,ING-IT,3970.64,1,3/19/2017,1/3/2020,3870.64
+460,Derril,Tookey,M,24/9/2005,passable,Licence-IT,3965.5,10,11/12/2018,1/2/2023,3865.5
+691,Rudie,Missenden,M,16/8/1999,bien,Licence-IT,3939.56,1,8/13/2017,7/21/2024,3839.56
+178,Burnard,Nunns,M,18/9/1992,trés bien,Business,3933.58,10,9/7/2017,11/24/2020,3833.58
+159,Gaspard,Frayling,M,16/1/2002,passable,Business,3929.96,7,6/13/2017,11/11/2022,3829.96
+34,Tam,Gleeson,M,28/7/2000,bien,Prepa,3928.56,4,6/12/2018,7/9/2022,3828.56
+340,Noah,Fife,M,1/2/2000,bien,Licence-IT,3927.5,8,8/9/2016,7/14/2022,3827.5
+290,Eduardo,Blackmoor,M,27/2/1999,faible,Licence-IT,3924.44,9,2/27/2016,2/13/2020,3824.44
+389,Samuele,Burkman,M,21/12/1992,faible,Prepa,3922.12,5,5/6/2018,5/13/2024,3822.12
+745,Carny,Haggith,M,11/6/2002,faible,Prepa,3922.02,7,1/11/2016,1/14/2022,3822.02
+569,Farris,Visick,M,6/9/2004,passable,Business,3921.87,9,10/26/2016,8/9/2023,3821.87
+125,Alexio,Bilbey,M,13/7/1999,passable,Licence-IT,3917.2,7,10/4/2017,12/10/2022,3817.2
+499,Mahmud,Landal,M,29/4/1992,passable,Business,3916.99,2,4/6/2017,12/13/2021,3816.99
+498,Adolphus,Meadows,M,1/1/1995,passable,ING-IT,3909.6,6,7/2/2016,8/16/2024,3809.6
+990,Salomo,Doorey,M,22/2/1995,bien,Licence-IT,3890.53,5,11/6/2017,7/5/2021,3790.53
+72,Maximilianus,Startin,M,21/9/1996,trés bien,Licence-IT,3879.31,10,5/1/2016,4/12/2020,3779.31
+330,Stafford,Boyer,M,23/2/2004,faible,Prepa,3877.91,10,7/30/2017,2/14/2023,3777.91
+435,Gareth,Sturte,M,19/11/1992,trés bien,Business,3875.49,3,1/7/2017,6/9/2024,3775.49
+921,Corny,Pinder,M,4/12/1994,bien,Business,3874.98,4,11/28/2017,6/27/2024,3774.98
+436,Puff,Bonwell,M,12/12/2001,passable,ING-IT,3865.73,5,8/11/2016,3/3/2022,3765.73
+892,Murdoch,Avrahamy,M,26/8/1999,bien,Business,3864.66,3,8/27/2016,11/4/2024,3764.66
+711,Lauren,Brayley,M,25/9/2002,passable,Business,3862.59,3,4/30/2017,11/23/2023,3762.59
+169,Chariot,Norvel,M,13/4/1990,trés bien,Licence-IT,3857.36,6,4/11/2017,4/9/2024,3757.36
+310,Giovanni,Sand,M,23/2/1998,faible,Business,3852.53,9,10/1/2018,12/22/2020,3752.53
+731,Frazer,Wollacott,M,18/8/1997,passable,ING-IT,3835.7,4,10/14/2018,3/26/2023,3735.7
+964,Nick,Presho,M,14/5/2003,trés bien,Prepa,3825.53,2,4/2/2016,10/30/2020,3725.53
+700,Faber,Skrzynski,M,24/2/1996,faible,Prepa,3825.31,7,5/11/2017,9/20/2023,3725.31
+444,Barron,Duignan,M,10/2/1997,passable,Business,3823.12,8,1/30/2016,8/25/2021,3723.12
+577,Niven,Hessle,M,16/2/2001,faible,Business,3817.52,2,10/19/2016,9/20/2020,3717.52
+181,Gabbie,Fennelly,M,1/1/1992,bien,Licence-IT,3807.43,1,2/12/2017,11/6/2020,3707.43
+325,Nye,Lewzey,M,26/7/1990,bien,Business,3789.31,0,6/30/2018,9/14/2020,3689.31
+410,Brandy,Vasyushkhin,M,28/3/2002,trés bien,Prepa,3777.41,1,6/19/2017,10/24/2022,3677.41
+697,Fraze,Meriott,M,26/5/1996,trés bien,ING-IT,3777.35,1,1/29/2018,1/5/2021,3677.35
+613,Terence,Kemmett,M,23/3/2002,passable,Business,3775.89,2,4/12/2017,10/12/2023,3675.89
+463,Nick,Bowdery,M,26/2/1993,passable,Business,3771.7,3,10/24/2017,1/15/2020,3671.7
+525,Cosimo,Moore,M,22/12/2000,faible,ING-IT,3764.39,2,6/3/2016,7/25/2021,3664.39
+738,Waylon,Edmonson,M,3/3/1998,bien,Business,3764.08,4,4/23/2018,10/25/2024,3664.08
+817,Cortie,Shubotham,M,14/8/1992,passable,ING-IT,3754.11,1,6/15/2016,3/28/2021,3654.11
+195,Sidnee,North,M,10/3/1998,trés bien,Business,3753.04,9,8/11/2016,7/6/2023,3653.04
+119,Ellerey,Tweede,M,20/8/2000,bien,ING-IT,3752.48,9,4/8/2016,12/2/2023,3652.48
+475,Mal,Barwood,M,23/9/2001,faible,Prepa,3751.17,0,7/22/2017,9/21/2021,3651.17
+938,Ozzie,Maior,M,18/3/1994,trés bien,Prepa,3749.06,3,2/12/2017,10/3/2022,3649.06
+51,Aloin,Le Batteur,M,7/4/1990,bien,Prepa,3746.48,1,12/5/2015,2/2/2022,3646.48
+270,Franklin,Girke,M,18/4/2002,faible,ING-IT,3736.12,9,11/24/2017,11/3/2020,3636.12
+275,Floyd,Sporle,M,31/5/1992,trés bien,Prepa,3734.96,10,1/20/2018,12/26/2022,3634.96
+535,Hillyer,Rossetti,M,14/11/1994,bien,ING-IT,3728.52,2,6/8/2017,7/24/2023,3628.52
+257,Maurits,Iglesiaz,M,9/5/2004,faible,Prepa,3721.18,0,3/7/2017,12/23/2021,3621.18
+832,Renaldo,Wallworke,M,18/9/2000,faible,Prepa,3719.48,8,5/11/2016,4/9/2024,3619.48
+812,Brok,De Bruyne,M,30/7/1992,bien,Prepa,3714.06,10,8/2/2016,6/29/2020,3614.06
+390,Tris,Neumann,M,10/6/2005,passable,Licence-IT,3714.01,3,12/25/2017,3/23/2020,3614.01
+395,Bordie,Dach,M,6/12/1994,trés bien,Prepa,3694.68,5,4/9/2017,5/29/2022,3594.68
+983,Thornton,Fremantle,M,12/9/2003,faible,Business,3688.87,0,7/20/2016,6/1/2020,3588.87
+182,Mortie,Jobes,M,4/8/1994,faible,Business,3687.99,3,3/4/2018,7/15/2023,3587.99
+424,Nicolais,Guppey,M,20/7/2004,passable,ING-IT,3670.46,6,9/11/2018,6/8/2024,3570.46
+302,Jeramey,Whitticks,M,30/12/1991,passable,Prepa,3665.09,9,7/7/2017,11/11/2024,3565.09
+557,Egan,Goymer,M,30/10/1998,bien,ING-IT,3660.86,7,12/3/2017,8/5/2024,3560.86
+5,Banky,Pipet,M,27/3/1991,trés bien,Licence-IT,3660.16,9,9/3/2016,5/12/2022,3560.16
+425,Amery,Unworth,M,30/1/2005,passable,ING-IT,3651.71,7,3/31/2018,8/30/2024,3551.71
+703,Nathaniel,Scroxton,M,1/6/2001,trés bien,Licence-IT,3648.88,0,11/23/2016,4/22/2023,3548.88
+60,Christos,Goodbur,M,17/12/2003,bien,Business,3631.14,6,8/7/2017,3/27/2023,3531.14
+993,Fergus,Lakey,M,26/10/2003,passable,Licence-IT,3627.7,6,10/14/2017,10/20/2020,3527.7
+951,Ab,Merryman,M,12/1/1990,bien,Business,3583.18,9,8/25/2017,6/15/2023,3483.18
+876,Timmy,Jagger,M,8/3/2003,bien,Business,3582.78,10,7/20/2016,10/3/2021,3482.78
+844,Niel,Pawlicki,M,1/11/2004,faible,Prepa,3579.48,7,2/3/2016,10/23/2021,3479.48
+507,Madison,Effaunt,M,14/2/1990,passable,Licence-IT,3578.8,7,9/7/2017,2/3/2023,3478.8
+131,Cecilio,Hamfleet,M,7/7/1990,bien,Licence-IT,3573.38,5,8/26/2017,9/14/2023,3473.38
+456,Marten,Parsall,M,11/10/1999,faible,Prepa,3572.56,0,12/10/2016,7/26/2021,3472.56
+221,Ollie,Obal,M,27/12/1999,passable,Licence-IT,3561.82,8,10/25/2016,11/30/2020,3461.82
+517,Vite,Feltoe,M,22/4/2003,bien,Business,3560.17,9,3/6/2016,1/16/2020,3460.17
+486,Stafford,Sorsby,M,26/9/1993,bien,Prepa,3554.95,3,7/17/2017,2/25/2023,3454.95
+150,Isidore,Lark,M,2/10/1991,passable,Business,3534.71,8,3/9/2018,4/10/2023,3434.71
+329,Denny,Whittington,M,7/6/2001,faible,Licence-IT,3532.74,6,9/23/2016,5/5/2020,3432.74
+924,Morgun,Ever,M,15/8/1997,trés bien,ING-IT,3530.15,4,8/19/2017,7/22/2020,3430.15
+69,Valentin,Kidsley,M,25/7/1992,trés bien,ING-IT,3524.52,0,7/4/2016,7/10/2021,3424.52
+483,Sholom,Fettis,M,22/3/1998,faible,ING-IT,3524.09,9,8/14/2018,5/14/2021,3424.09
+285,Dionisio,Wessell,M,23/2/1999,passable,Prepa,3521.16,6,9/10/2017,1/4/2022,3421.16
+481,Mose,Robeiro,M,24/7/2001,trés bien,Licence-IT,3518.34,1,9/1/2017,5/24/2023,3418.34
+282,Elsworth,Gencke,M,18/1/2005,bien,ING-IT,3501.49,3,3/17/2018,8/26/2024,3401.49
+81,Marietta,Colquit,M,27/11/2002,faible,Licence-IT,3499.99,9,2/1/2017,5/27/2020,3399.99
+589,Forster,Blenkhorn,M,6/2/1997,passable,Business,3497.86,3,11/10/2017,7/6/2022,3397.86
+694,Blayne,Heighton,M,28/12/1997,trés bien,ING-IT,3497.28,0,11/29/2017,6/8/2020,3397.28
+818,Webster,Lavery,M,1/7/1994,bien,Business,3486.27,3,4/20/2016,1/5/2021,3386.27
+916,Sancho,Tregunnah,M,15/1/1993,passable,ING-IT,3471.96,3,2/18/2018,3/26/2020,3371.96
+130,Fair,Ettritch,M,2/11/1998,bien,Prepa,3467.11,4,11/10/2018,7/25/2024,3367.11
+807,Andrea,Haslock(e),M,20/10/1991,passable,Licence-IT,3463.26,8,3/17/2017,12/16/2020,3363.26
+138,Jarad,Garwell,M,23/10/1997,trés bien,Licence-IT,3461.59,9,10/16/2018,10/31/2023,3361.59
+902,Pablo,Obbard,M,3/1/2005,faible,Licence-IT,3440.89,4,10/2/2018,3/6/2021,3340.89
+998,Joseito,Gavagan,M,8/12/1994,bien,Business,3438.87,7,3/4/2016,7/31/2024,3338.87
+80,Temp,Karmel,M,27/3/2005,passable,Prepa,3432.53,4,10/22/2016,6/2/2022,3332.53
+359,Jarid,Bellard,M,19/2/2001,trés bien,ING-IT,3430.14,7,9/1/2018,10/16/2024,3330.14
+228,Raffarty,Holdall,M,15/11/1992,faible,Prepa,3423.84,3,10/21/2016,11/1/2022,3323.84
+8,Desmond,Heavyside,M,24/9/1996,bien,ING-IT,3417.44,0,1/24/2018,4/10/2020,3317.44
+588,Townsend,Cordel,M,23/11/1999,bien,Business,3409.23,10,1/19/2018,12/16/2019,3309.23
+496,Hyman,Iorns,M,12/3/1992,bien,Business,3403.14,8,7/4/2018,7/22/2022,3303.14
+699,Langston,Vermer,M,13/5/1990,bien,Licence-IT,3390.01,4,7/15/2018,11/20/2022,3290.01
+461,Reinold,Merkel,M,6/9/1991,passable,Business,3385.63,2,7/8/2017,10/27/2021,3285.63
+950,Morgen,Portingale,M,16/6/1996,passable,Licence-IT,3381.02,3,11/18/2018,7/13/2024,3281.02
+336,Cooper,Hryniewicki,M,23/9/1993,bien,Prepa,3378.46,6,6/24/2018,3/12/2023,3278.46
+245,Duncan,Fairpo,M,16/12/2003,trés bien,Licence-IT,3375.57,3,10/23/2017,3/9/2023,3275.57
+981,Gustav,Hercules,M,9/10/2004,passable,Licence-IT,3370.56,8,11/15/2018,7/30/2021,3270.56
+203,Herb,Kummerlowe,M,26/10/2001,passable,Licence-IT,3369.32,10,6/1/2016,1/29/2024,3269.32
+107,Archibold,Gaskin,M,2/9/1993,bien,Prepa,3355.41,3,6/28/2017,3/14/2023,3255.41
+418,Roi,McNab,M,12/12/1995,passable,Licence-IT,3336.65,0,10/1/2018,8/3/2020,3236.65
+404,Kristoffer,Leadbeatter,M,3/11/1990,passable,Business,3324.46,0,1/10/2018,11/23/2021,3224.46
+470,Les,Eastes,M,30/10/2005,bien,Licence-IT,3318.97,4,2/5/2016,3/6/2022,3218.97
+888,Evan,Billiard,M,2/1/2000,bien,Business,3315.08,10,12/20/2017,12/14/2019,3215.08
+442,Josias,Sidebotton,M,14/9/1997,passable,Prepa,3313.17,6,8/1/2018,2/4/2020,3213.17
+506,Raddy,Thyng,M,15/2/1991,bien,Licence-IT,3291.43,0,11/30/2015,4/5/2021,3191.43
+449,Clemmy,Leavey,M,14/4/2002,bien,ING-IT,3287.5,7,11/15/2017,4/22/2023,3187.5
+385,Darn,Tourle,M,24/8/2004,faible,ING-IT,3286.88,5,3/7/2018,8/11/2020,3186.88
+306,Bendix,Passion,M,31/3/2003,passable,Business,3278.88,2,1/9/2018,2/23/2022,3178.88
+300,Elisha,Fairbard,M,2/5/2005,bien,ING-IT,3275.17,8,4/29/2017,1/8/2024,3175.17
+575,Tobit,Comelini,M,21/10/1999,passable,ING-IT,3267.69,5,8/10/2018,8/1/2023,3167.69
+278,Knox,Dummigan,M,14/2/1992,bien,Licence-IT,3259.89,6,7/28/2018,9/19/2022,3159.89
+250,Sargent,McGarahan,M,1/2/2005,passable,Licence-IT,3258.49,5,5/1/2018,2/11/2024,3158.49
+849,Vernor,Franscioni,M,8/8/2005,trés bien,Prepa,3254.11,6,9/20/2016,9/19/2021,3154.11
+200,Shae,Slyne,M,17/6/2000,faible,Business,3218.15,9,8/2/2016,11/15/2024,3118.15
+994,Ray,Pitcaithley,M,30/4/1998,passable,Business,3208.9,2,9/25/2018,3/19/2023,3108.9
+76,Nealon,Coie,M,6/6/1991,trés bien,ING-IT,3204.42,9,8/15/2018,2/16/2020,3104.42
+165,Der,Sagrott,M,13/10/1998,bien,ING-IT,3202.42,4,6/28/2016,4/11/2021,3102.42
+690,Benedetto,Innott,M,6/7/2005,passable,ING-IT,3198.03,2,8/9/2018,5/9/2023,3098.03
+766,Skippy,Balnave,M,2/11/2005,passable,ING-IT,3191.98,1,7/27/2018,2/17/2021,3091.98
+526,Pace,Rabjohn,M,4/10/1991,passable,ING-IT,3187.54,10,4/8/2017,5/13/2021,3087.54
+906,Ring,Pettigree,M,22/1/1991,trés bien,ING-IT,3186.47,7,6/23/2016,9/23/2021,3086.47
+673,Gabe,Shade,M,10/12/2002,passable,Licence-IT,3174.94,0,1/31/2017,8/5/2024,3074.94
+490,Walden,Gosse,M,30/12/1996,faible,Licence-IT,3172.17,6,6/22/2016,5/7/2021,3072.17
+210,Wendell,Kobiera,M,12/4/1999,bien,Licence-IT,3159.74,0,8/11/2018,3/4/2024,3059.74
+401,Gardie,Galfour,M,11/4/1990,trés bien,Prepa,3158.17,6,9/2/2017,2/1/2020,3058.17
+287,Adrian,Clemett,M,16/11/1990,trés bien,Prepa,3156.17,2,8/17/2017,7/23/2020,3056.17
+965,Roderic,Pringley,M,21/12/1990,faible,ING-IT,3154.61,9,4/4/2018,11/13/2023,3054.61
+936,Gherardo,Sare,M,8/9/1990,trés bien,ING-IT,3151.06,6,7/13/2016,3/11/2021,3051.06
+49,Lem,Carroll,M,10/4/1997,faible,Licence-IT,3147.78,9,1/10/2017,7/1/2022,3047.78
+398,Packston,McSperron,M,8/6/1995,faible,Licence-IT,3141.79,6,4/16/2018,11/5/2022,3041.79
+650,Reggy,Ketchaside,M,22/4/1998,bien,Licence-IT,3139.31,10,9/3/2016,3/9/2024,3039.31
+800,Mackenzie,Aizkovitch,M,12/12/1999,passable,ING-IT,3137.96,7,1/27/2016,11/3/2023,3037.96
+472,Stephen,Rubertelli,M,21/5/2000,passable,Licence-IT,3136.19,8,8/24/2017,12/13/2019,3036.19
+431,Graehme,O'Heneghan,M,17/9/1992,faible,Business,3134.16,6,2/25/2017,11/8/2024,3034.16
+609,Asa,Jackling,M,2/1/1991,passable,Prepa,3130.12,0,4/6/2016,8/4/2022,3030.12
+512,Forrester,Pinel,M,22/10/2002,faible,Prepa,3119.11,2,3/15/2017,1/28/2023,3019.11
+374,Morton,Perrinchief,M,7/8/2003,passable,Business,3115.84,4,5/13/2016,10/20/2021,3015.84
+84,Carson,Glasgow,M,13/2/2001,trés bien,ING-IT,3112.12,2,6/30/2018,2/1/2024,3012.12
+114,Roderich,Berthod,M,11/9/1996,passable,Licence-IT,3101.94,1,1/29/2018,5/4/2024,3001.94
+105,Adlai,Jonczyk,M,26/7/1998,faible,Licence-IT,3099.64,10,11/26/2017,2/10/2020,2999.64
+408,Worthy,Wallen,M,10/7/1998,bien,Business,3087.35,0,12/29/2015,8/27/2022,2987.35
+667,Bayard,Ambroise,M,5/4/1998,faible,Business,3082.34,5,7/18/2016,1/5/2024,2982.34
+152,Rowen,Sellan,M,28/5/1992,bien,Business,3071.79,0,6/3/2016,3/6/2023,2971.79
+94,Felice,Schwanden,M,29/11/2001,passable,Business,3069.96,1,7/28/2016,9/15/2024,2969.96
+563,Jethro,Worland,M,22/11/2002,bien,Prepa,3063.77,2,4/22/2018,12/4/2019,2963.77
+541,Jammal,Driver,M,28/12/2005,passable,ING-IT,3062.97,3,1/30/2017,5/26/2023,2962.97
+768,Kendal,Lambdean,M,24/11/1997,passable,Licence-IT,3062.35,9,12/17/2017,11/16/2024,2962.35
+584,Udale,Petrol,M,21/7/1996,faible,Business,3057.26,6,1/19/2016,7/16/2023,2957.26
+721,Kearney,Dodd,M,13/8/1991,bien,ING-IT,3052.98,0,4/2/2017,11/18/2021,2952.98
+668,Gustav,Hotchkin,M,25/10/1993,bien,Prepa,3047.82,9,2/28/2018,12/21/2021,2947.82
+949,Gordy,Breache,M,25/9/1992,passable,Business,3047.21,4,11/11/2016,12/21/2019,2947.21
+31,Arni,Manifould,M,13/10/1992,faible,Business,3046.66,6,6/23/2016,5/27/2023,2946.66
+211,Felipe,Bruyet,M,12/10/1993,bien,Prepa,3043.14,8,2/9/2018,8/10/2022,2943.14
+147,Mitchell,Dutnell,M,10/6/1994,passable,Business,3031.25,10,8/14/2017,8/27/2023,2931.25
+246,Buck,Potzold,M,2/10/1994,passable,Licence-IT,3020.93,8,9/14/2018,3/5/2021,2920.93
+598,Cart,Pickle,M,21/6/2004,faible,ING-IT,3019.59,6,12/9/2016,3/14/2022,2919.59
+741,Byrann,Starford,M,27/1/2004,bien,Business,3018.43,9,8/29/2016,10/25/2023,2918.43
+655,Hyman,Daily,M,8/3/2000,passable,ING-IT,3018.43,2,12/16/2015,10/24/2024,2918.43
+866,Erek,Herrema,M,7/3/2002,bien,ING-IT,3013.92,1,9/1/2016,5/29/2022,2913.92
+40,Robb,Loudyan,M,2/4/1994,faible,Business,3010.61,8,7/8/2018,5/18/2023,2910.61
+963,Aharon,Henighan,M,11/5/2001,faible,Licence-IT,3005.37,7,4/27/2018,11/11/2022,2905.37
+11,Bentlee,McNickle,M,16/5/1990,bien,Business,3000.31,7,10/14/2017,4/20/2024,2900.31
+204,Haily,Stonhard,M,20/7/1997,bien,Business,2985.62,2,11/24/2016,6/5/2024,2885.62
+870,Fabiano,Malletratt,M,15/12/2003,passable,Prepa,2971.39,1,5/29/2018,11/8/2024,2871.39
+454,Eugenio,Bizzey,M,25/6/1995,trés bien,Licence-IT,2959.79,8,7/14/2017,2/27/2022,2859.79
+120,Kit,Placido,M,11/2/1998,passable,Prepa,2949.93,2,3/5/2016,1/7/2021,2849.93
+447,Maurise,Shuter,M,14/1/1996,faible,Licence-IT,2948.54,8,11/4/2017,10/3/2021,2848.54
+684,Levy,Balmforth,M,29/10/2002,bien,Prepa,2946.46,0,11/12/2018,9/4/2020,2846.46
+327,Pearce,Stellman,M,14/4/2003,trés bien,Prepa,2946.4,8,1/18/2016,9/20/2020,2846.4
+177,Bartholemy,Parlott,M,21/3/1999,bien,ING-IT,2944.67,9,10/16/2016,5/6/2021,2844.67
+402,Horacio,Malecky,M,3/8/2005,faible,Prepa,2926.43,6,4/15/2018,7/5/2024,2826.43
+504,Rob,Waterfall,M,1/2/2002,faible,Prepa,2911.08,1,6/24/2018,5/6/2020,2811.08
+487,Raff,Rome,M,26/3/2002,passable,ING-IT,2907.17,10,7/7/2018,9/28/2022,2807.17
+476,Ryan,Pomfret,M,25/6/1996,passable,Prepa,2905.93,2,4/29/2016,12/24/2020,2805.93
+397,Franzen,Gourlay,M,31/7/2005,bien,Licence-IT,2905.69,4,7/11/2018,8/20/2022,2805.69
+701,Roth,Cella,M,4/9/1991,faible,Prepa,2898.91,4,5/26/2017,2/22/2022,2798.91
+775,Yorgos,Greste,M,31/12/1994,passable,ING-IT,2873.88,8,6/13/2017,9/30/2020,2773.88
+687,Caesar,Allder,M,4/5/1994,passable,Prepa,2865.26,9,8/23/2018,5/17/2021,2765.26
+46,Florian,Trubshaw,M,8/7/2000,trés bien,Prepa,2856.98,2,6/3/2017,5/28/2022,2756.98
+564,Ezra,MacIntosh,M,20/1/2000,bien,Licence-IT,2854.5,1,3/31/2016,4/27/2021,2754.5
+24,Gayelord,Piatkow,M,26/5/1997,trés bien,ING-IT,2845.84,7,5/29/2016,3/18/2020,2745.84
+523,Brooks,Burberye,M,9/2/2004,faible,Prepa,2845.79,1,7/3/2016,3/18/2023,2745.79
+445,Mart,Molyneaux,M,24/11/2003,faible,Prepa,2840.73,10,6/25/2016,11/15/2022,2740.73
+279,Erastus,Solley,M,7/5/1999,faible,Licence-IT,2832.54,10,11/27/2015,11/23/2019,2732.54
+878,Keir,Tett,M,20/5/1995,passable,Licence-IT,2832.52,2,12/29/2017,7/25/2021,2732.52
+970,Jarrad,Lefort,M,21/3/1991,passable,Licence-IT,2828.16,5,3/24/2016,10/22/2023,2728.16
+995,Binky,Luna,M,10/1/2002,bien,Licence-IT,2819.91,2,5/18/2017,7/16/2023,2719.91
+776,Kenon,Reisenberg,M,14/8/2004,trés bien,Business,2817.38,7,6/8/2016,2/20/2020,2717.38
+982,Emanuele,Phillips,M,7/9/1992,bien,Prepa,2806.39,8,4/8/2018,4/11/2024,2706.39
+623,Myrvyn,O'Keevan,M,24/3/1997,passable,Prepa,2780.02,2,8/31/2018,6/9/2020,2680.02
+991,Lief,Stancliffe,M,4/11/1996,trés bien,Business,2778.76,9,9/19/2017,3/22/2021,2678.76
+376,Anson,Raoult,M,17/10/1990,passable,Prepa,2774.79,9,5/24/2016,5/5/2020,2674.79
+293,Maxwell,Farnin,M,25/6/2000,faible,Prepa,2774.44,7,2/6/2018,6/13/2020,2674.44
+1,Tam,Sandwick,M,17/7/1993,passable,Licence-IT,2773.84,2,8/2/2018,8/22/2022,2673.84
+663,Denney,Chaster,M,11/6/1996,trés bien,Prepa,2769.12,3,5/12/2016,2/16/2021,2669.12
+368,Vladamir,de Savery,M,26/2/2003,bien,Business,2767.92,9,8/1/2017,4/11/2021,2667.92
+7,Truman,Crawcour,M,29/5/1998,faible,Licence-IT,2766.85,1,9/17/2018,8/25/2020,2666.85
+32,Currey,Fashion,M,9/9/1998,bien,Prepa,2761.32,1,5/23/2018,3/6/2021,2661.32
+992,Jared,Marston,M,24/6/2000,faible,Business,2754.94,4,1/27/2017,1/16/2024,2654.94
+170,Bourke,Christopher,M,27/1/2000,bien,Business,2744.66,2,3/29/2018,11/15/2022,2644.66
+670,Cozmo,Kassidy,M,13/11/2003,trés bien,ING-IT,2737.36,4,7/21/2017,6/16/2021,2637.36
+840,Rikki,Kleinstein,M,8/5/1996,trés bien,ING-IT,2734.68,10,7/17/2018,4/11/2021,2634.68
+653,Osbert,Sterricker,M,7/3/1996,trés bien,Business,2729.15,6,5/9/2017,12/10/2021,2629.15
+89,Skyler,Aslett,M,9/5/1990,passable,Business,2724.29,1,9/12/2018,7/18/2020,2624.29
+539,Chrissie,Jirasek,M,28/2/1993,trés bien,Business,2676.53,7,1/21/2017,5/15/2020,2576.53
+318,Edward,Alpine,M,10/3/1998,bien,ING-IT,2676.45,8,12/2/2016,5/22/2021,2576.45
+503,Bourke,Padbury,M,27/7/2005,bien,ING-IT,2672.44,5,1/5/2016,8/8/2022,2572.44
+893,Humbert,Klimshuk,M,27/5/1998,passable,Business,2671.22,8,8/28/2018,8/18/2020,2571.22
+264,Desmund,Elies,M,7/7/2004,faible,Licence-IT,2663.15,2,3/14/2017,3/4/2021,2563.15
+187,Dorie,Bevens,M,4/10/1990,faible,Prepa,2662.72,1,10/19/2018,5/26/2023,2562.72
+749,Harland,Meckiff,M,21/12/1999,passable,Licence-IT,2660.72,9,12/24/2015,8/3/2022,2560.72
+202,Neall,Chinery,M,28/12/1998,trés bien,Licence-IT,2645.07,8,12/4/2015,2/4/2020,2545.07
+602,Tanny,Griffitts,M,11/1/2001,passable,ING-IT,2644.98,6,9/2/2016,10/20/2022,2544.98
+718,Wendel,Kleehuhler,M,3/4/1997,trés bien,Prepa,2643.88,9,6/18/2016,4/23/2023,2543.88
+6,Manuel,Norvel,M,7/12/2002,faible,Prepa,2639.89,10,7/10/2016,10/19/2021,2539.89
+30,Payton,Edlyne,M,18/11/2003,trés bien,Business,2638.46,9,3/17/2018,1/9/2022,2538.46
+760,Morris,Jencey,M,2/7/2000,passable,Prepa,2635.47,0,8/21/2017,6/20/2021,2535.47
+747,Bendick,Tomasi,M,15/9/1997,bien,Licence-IT,2633.52,7,4/25/2017,8/9/2020,2533.52
+860,Amerigo,O'Collopy,M,20/12/1996,passable,Business,2624.36,1,11/29/2017,4/23/2023,2524.36
+719,Kipper,Klemenz,M,1/1/2003,passable,Business,2623.64,7,12/25/2015,10/5/2024,2523.64
+765,Orville,Purchall,M,9/7/1999,trés bien,Licence-IT,2623.55,9,5/14/2017,12/23/2019,2523.55
+640,Son,Wickham,M,7/4/2003,bien,Business,2623.14,7,11/3/2017,2/20/2023,2523.14
+36,Ber,Spreull,M,28/5/2001,faible,ING-IT,2598.99,2,6/12/2017,6/21/2024,2498.99
+334,Brendan,Nutbrown,M,28/10/1999,passable,ING-IT,2594.4,10,6/16/2016,6/2/2023,2494.4
+13,Archy,Goulborn,M,19/12/1998,bien,Licence-IT,2589.71,0,10/31/2016,12/24/2023,2489.71
+256,Niles,Gillibrand,M,6/9/2002,faible,ING-IT,2589.6,1,2/1/2018,3/26/2020,2489.6
+927,Boyce,Crebbin,M,18/3/2003,faible,Licence-IT,2588.08,5,12/27/2015,2/13/2021,2488.08
+471,Clark,Stampfer,M,28/5/2003,bien,Prepa,2587.37,7,5/27/2017,12/9/2020,2487.37
+996,Tabbie,Burdas,M,24/11/1990,passable,Prepa,2558.9,4,10/18/2016,5/9/2022,2458.9
+865,Ross,Winspeare,M,19/1/1993,bien,Licence-IT,2548.36,6,4/3/2016,11/18/2022,2448.36
+795,Gordan,Harcombe,M,12/7/2005,bien,Prepa,2544.01,7,5/18/2018,11/14/2020,2444.01
+78,Hazel,Nagle,M,1/2/2002,passable,ING-IT,2536.69,10,1/8/2016,3/18/2022,2436.69
+26,Hercules,Churchard,M,8/4/1999,passable,Licence-IT,2536.34,3,12/28/2017,12/31/2023,2436.34
+633,Selby,Diess,M,24/11/1998,bien,Licence-IT,2530.43,1,7/26/2016,4/10/2024,2430.43
+229,Conan,Bonnaire,M,6/11/1990,trés bien,Business,2527.58,10,8/11/2016,6/7/2024,2427.58
+988,Filip,FitzGeorge,M,1/11/1993,passable,Prepa,2525.59,9,9/10/2018,7/4/2023,2425.59
+174,Hube,Pacey,M,16/2/1994,trés bien,Licence-IT,2524.28,6,5/11/2016,12/28/2022,2424.28
+92,Free,Kernocke,M,15/3/2001,trés bien,Licence-IT,2513.36,8,12/1/2015,11/11/2023,2413.36
+958,Irv,Feldberger,M,28/2/1993,passable,Licence-IT,2510.18,1,7/2/2017,3/6/2021,2410.18
+365,Ansel,Beavers,M,16/2/1999,bien,Business,2503.7,0,10/9/2017,11/21/2023,2403.7
+243,Tracey,Graben,M,2/2/1995,faible,Prepa,2497.87,2,9/25/2018,12/7/2022,2397.87
+28,Connor,Louys,M,17/10/1998,bien,Licence-IT,2488.95,7,11/26/2017,3/2/2021,2388.95
+810,Kienan,Kerne,M,24/8/2000,trés bien,Business,2487.32,0,8/19/2016,7/15/2020,2387.32
+184,Zelig,Erat,M,11/1/1992,bien,Prepa,2484.93,7,4/16/2016,12/28/2021,2384.93
+627,Pace,Isakowicz,M,4/10/1999,bien,Prepa,2483.67,6,11/25/2017,2/3/2020,2383.67
+594,Alexander,Oylett,M,21/2/1995,bien,Licence-IT,2482.94,3,2/1/2017,8/14/2024,2382.94
+205,Chariot,Gherardelli,M,26/7/1993,passable,Prepa,2480.35,0,8/5/2018,1/12/2023,2380.35
+423,Titos,Heyworth,M,25/4/1995,faible,Prepa,2475.91,8,3/2/2018,3/4/2024,2375.91
+175,Ken,Razzell,M,9/2/1991,passable,Business,2472.39,7,10/24/2017,3/7/2024,2372.39
+758,Claudell,Sanpere,M,4/7/1997,bien,ING-IT,2464.6,8,12/5/2016,9/5/2020,2364.6
+910,Omar,Litherland,M,4/4/2001,faible,ING-IT,2462.06,3,12/29/2015,3/31/2022,2362.06
+520,Valentino,Matous,M,19/1/1996,bien,Licence-IT,2455.19,0,11/25/2016,7/31/2020,2355.19
+790,Pearce,Tunnadine,M,28/12/1996,faible,Licence-IT,2455.16,4,7/9/2018,8/24/2021,2355.16
+377,Thurston,Trustey,M,30/11/1994,passable,Licence-IT,2447.92,0,1/10/2016,10/10/2023,2347.92
+1000,Robers,Theobold,M,28/12/2000,passable,Licence-IT,2445.25,9,3/7/2016,11/8/2020,2345.25
+534,Maury,Filyaev,M,28/5/1991,passable,Prepa,2428.94,8,12/1/2015,2/7/2022,2328.94
+529,Eb,Fishe,M,25/12/2001,passable,Business,2423.81,2,2/15/2017,1/7/2024,2323.81
+494,Ilario,Chomicki,M,24/8/1998,passable,Business,2412.92,9,5/29/2016,5/25/2024,2312.92
+464,Barr,Phillipson,M,21/11/1991,trés bien,Prepa,2408.72,4,3/26/2018,10/12/2024,2308.72
+71,Rodge,Pyvis,M,28/11/1995,bien,Licence-IT,2406.15,1,10/27/2017,2/2/2023,2306.15
+649,Sanderson,Aharoni,M,10/5/2001,bien,ING-IT,2398.14,0,12/2/2017,12/21/2023,2298.14
+75,Esteban,Pyne,M,11/8/1997,passable,Licence-IT,2395.34,6,1/29/2018,6/26/2023,2295.34
+975,Tobias,Glanfield,M,24/4/2000,bien,Prepa,2391.78,7,3/17/2017,9/13/2020,2291.78
+458,Kirk,Leif,M,1/7/1995,passable,Business,2389.03,8,11/29/2016,5/27/2020,2289.03
+567,Rance,Neubigging,M,16/3/1992,passable,Business,2380.14,6,7/10/2018,7/24/2024,2280.14
+132,Ase,Arnhold,M,18/10/1991,trés bien,Prepa,2376.21,9,11/30/2016,10/19/2023,2276.21
+439,Royal,Petters,M,26/11/1997,bien,Business,2374.47,8,9/3/2017,1/24/2022,2274.47
+218,Lovell,MacCostigan,M,15/6/2001,trés bien,Business,2373.98,3,4/15/2017,6/6/2021,2273.98
+54,Howey,Fludder,M,5/11/1991,passable,ING-IT,2370.04,4,4/17/2017,2/4/2022,2270.04
+497,Sylas,Reignould,M,23/8/1996,bien,ING-IT,2358.69,6,12/31/2017,4/10/2023,2258.69
+941,Barrie,Worthington,M,2/12/1992,faible,Licence-IT,2356.43,6,7/22/2016,9/15/2024,2256.43
+781,Hercules,Applebee,M,9/1/1994,bien,Licence-IT,2354.26,3,4/9/2017,6/26/2024,2254.26
+465,Parry,Luxen,M,7/12/1994,passable,Licence-IT,2344.68,1,12/25/2016,7/7/2022,2244.68
+267,Delbert,Frape,M,17/5/1990,passable,Prepa,2342.76,9,5/26/2016,3/29/2024,2242.76
+833,Dukie,Fludgate,M,4/4/1996,passable,Prepa,2334.43,3,8/27/2017,7/15/2023,2234.43
+759,Christos,McMackin,M,29/6/1992,bien,ING-IT,2333.83,8,2/18/2018,2/2/2022,2233.83
+387,Marijn,Martinovic,M,29/12/1998,faible,Prepa,2333.06,8,2/17/2017,9/8/2023,2233.06
+581,Herb,Coode,M,5/8/2002,faible,ING-IT,2330.21,2,1/3/2018,10/28/2021,2230.21
+55,Balduin,Roundtree,M,4/5/2000,trés bien,Business,2320.38,2,12/8/2016,8/20/2022,2220.38
+386,Arlen,Minshull,M,22/9/1999,bien,Business,2318.84,3,4/19/2017,6/30/2020,2218.84
+201,Teddie,Desporte,M,20/11/2005,bien,Licence-IT,2314.83,8,4/9/2017,9/29/2022,2214.83
+509,Shanan,Whal,M,15/10/1993,passable,Prepa,2313.29,5,4/16/2018,7/14/2022,2213.29
+665,Howey,Stillman,M,20/6/2003,trés bien,Prepa,2307.63,7,3/11/2016,1/1/2022,2207.63
+786,Mario,Fetherston,M,6/11/1995,bien,Prepa,2306.57,0,2/20/2016,10/22/2024,2206.57
+495,Randi,Cheeld,M,21/12/1998,faible,ING-IT,2306.22,4,3/8/2017,5/29/2020,2206.22
+937,Hurley,Elsmere,M,4/11/1995,passable,Licence-IT,2296.04,1,10/24/2018,10/20/2024,2196.04
+803,Regan,Trail,M,20/3/2005,passable,Prepa,2293.31,4,10/22/2017,4/27/2024,2193.31
+735,Corty,Esson,M,11/8/2005,faible,Business,2290.09,0,2/20/2018,4/24/2024,2190.09
+879,Corbie,Patient,M,6/9/1993,faible,Prepa,2289.92,3,8/25/2016,4/7/2024,2189.92
+989,Fulton,McAlister,M,30/1/1995,passable,Licence-IT,2284.54,2,12/8/2016,4/24/2022,2184.54
+87,Nealson,Thebe,M,22/6/1997,passable,ING-IT,2278.38,4,7/21/2018,8/4/2024,2178.38
+14,Bernardo,Shropsheir,M,28/1/2004,passable,Business,2277.37,4,1/31/2016,9/1/2022,2177.37
+948,Borg,Halfhead,M,19/6/2002,faible,Licence-IT,2274.99,1,1/4/2017,4/16/2024,2174.99
+592,Johnathan,Frede,M,13/8/2003,passable,ING-IT,2266.24,8,7/27/2018,10/7/2024,2166.24
+488,Darill,Laffranconi,M,14/3/2005,faible,Prepa,2265.91,8,7/9/2017,4/11/2022,2165.91
+756,Kenny,Ramsier,M,22/3/2004,bien,Business,2264.54,8,11/25/2015,9/29/2020,2164.54
+128,Gunner,Delafoy,M,5/8/1994,passable,Business,2263.66,6,10/6/2017,4/26/2024,2163.66
+63,Parnell,Lamb,M,14/7/2003,passable,Business,2259.93,5,1/2/2018,2/18/2020,2159.93
+294,Solly,Crimpe,M,11/7/1994,trés bien,Licence-IT,2257.21,7,11/5/2016,12/7/2021,2157.21
+717,Micky,Trippitt,M,1/11/2003,passable,Licence-IT,2239.8,1,11/17/2017,11/11/2022,2139.8
+792,Waring,Ruthen,M,14/2/1993,bien,Licence-IT,2234.68,8,7/30/2018,8/19/2023,2134.68
+831,Cullie,Aland,M,11/10/1991,passable,ING-IT,2232.25,6,11/22/2017,11/12/2023,2132.25
+610,Perry,Abramcik,M,26/12/1998,faible,Prepa,2215.54,9,7/17/2018,5/17/2024,2115.54
+530,Harbert,Tourville,M,19/4/1993,passable,Business,2213.3,9,1/6/2016,10/23/2023,2113.3
+321,Mikey,Powney,M,10/1/1997,faible,Prepa,2210.72,10,9/24/2018,4/26/2020,2110.72
+622,Sayers,Cadd,M,9/5/1999,trés bien,ING-IT,2204.19,3,5/26/2018,4/1/2020,2104.19
+356,Berkie,Gilman,M,2/6/1990,trés bien,Business,2191.43,7,10/30/2016,8/19/2021,2091.43
+67,Westbrooke,Vankeev,M,27/1/1992,faible,ING-IT,2181.72,0,2/16/2017,12/24/2019,2081.72
+157,Marius,Mallett,M,19/9/1995,bien,ING-IT,2166.25,6,11/28/2016,2/22/2022,2066.25
+342,Haydon,Blumsom,M,12/10/2000,passable,ING-IT,2163.15,1,12/8/2016,12/7/2020,2063.15
+191,Oberon,Juris,M,27/12/2002,trés bien,Prepa,2156.94,8,6/2/2018,8/22/2022,2056.94
+967,Tome,Egger,M,19/4/1990,trés bien,ING-IT,2152.19,7,6/19/2018,6/10/2021,2052.19
+469,Teodorico,Burehill,M,25/12/2001,faible,Prepa,2137.77,2,8/26/2017,7/5/2023,2037.77
+751,Berkeley,Warbrick,M,11/8/1991,faible,Business,2129.79,8,7/2/2017,5/18/2021,2029.79
+799,Sullivan,O'Loughnan,M,23/11/1995,trés bien,Prepa,2124.37,1,6/7/2018,7/12/2021,2024.37
+685,Ray,Squirrel,M,30/9/2000,faible,ING-IT,2122.45,7,8/3/2016,10/22/2022,2022.4499999999998
+145,Armin,Kubu,M,29/12/2001,bien,ING-IT,2119.04,4,4/4/2018,6/7/2023,2019.04
+553,Ahmed,Teaz,M,9/4/1993,faible,Licence-IT,2116.41,7,7/20/2016,6/15/2021,2016.4099999999999
+361,Darren,Riseborough,M,19/3/2001,bien,ING-IT,2113.43,0,12/28/2016,5/10/2020,2013.4299999999998
+283,Mandel,Lind,M,27/10/1990,bien,Prepa,2112.96,10,6/6/2016,12/7/2022,2012.96
+12,Duffie,D'Agostini,M,25/6/2005,passable,Prepa,2110.67,4,11/11/2017,8/28/2020,2010.67
+960,Leeland,Purchase,M,7/12/2000,passable,Licence-IT,2110.27,2,10/9/2016,3/15/2021,2010.27
+859,Wynn,Braddon,M,7/10/1992,bien,ING-IT,2108.85,6,11/14/2016,7/14/2023,2008.85
+142,Abie,Dybell,M,16/9/2005,faible,ING-IT,2106.98,9,5/16/2016,12/18/2023,2006.98
+489,Abbot,Maskill,M,14/7/1992,trés bien,ING-IT,2100.73,1,7/25/2017,8/16/2023,2000.73
+777,Anthony,Ottiwill,M,27/4/1998,passable,Prepa,2095.15,9,2/8/2018,8/24/2023,1995.15
+20,Sherman,Anthiftle,M,29/4/1990,faible,Prepa,2092.51,9,9/6/2018,3/1/2020,1992.5100000000002
+513,Joe,Menci,M,28/2/1996,passable,Prepa,2090.61,5,11/3/2017,7/4/2024,1990.6100000000001
+704,Matty,Tezure,M,1/3/2005,bien,Prepa,2065.03,5,9/30/2016,1/9/2021,1965.0300000000002
+443,Augie,Bibby,M,25/8/1995,passable,Prepa,2063.07,9,8/26/2017,8/29/2023,1963.0700000000002
+596,Phil,Loddon,M,18/6/2003,bien,Business,2058.14,4,7/4/2018,4/27/2024,1958.1399999999999
+308,Conn,Azemar,M,18/9/2001,trés bien,Prepa,2055.67,8,8/16/2016,1/23/2024,1955.67
+399,Claus,Benezet,M,30/1/1990,trés bien,Licence-IT,2054.24,8,7/12/2017,11/26/2023,1954.2399999999998
+467,Kev,Mattusov,M,23/12/1999,trés bien,Business,2052.23,1,2/1/2016,3/31/2022,1952.23
+241,Reinald,Carnalan,M,27/3/2005,passable,Prepa,2047.04,4,12/14/2017,12/9/2020,1947.04
+238,Calhoun,Behan,M,21/9/1994,bien,ING-IT,2044.38,8,9/16/2017,12/1/2021,1944.38
+197,Nigel,McNaught,M,25/4/1991,faible,ING-IT,2040.93,5,2/27/2017,7/27/2021,1940.93
+3,Adan,Antonchik,M,9/8/2003,bien,Licence-IT,2039.02,4,2/16/2017,6/15/2021,1939.02
+716,Cass,Breeze,M,14/11/1997,bien,ING-IT,2038.13,1,7/26/2017,7/5/2023,1938.13
+88,Red,Teissier,M,11/2/1994,passable,ING-IT,2028.22,5,10/16/2017,7/4/2021,1928.22
+559,Cyrille,Labes,M,25/8/2002,bien,ING-IT,2011.16,8,9/18/2017,4/23/2024,1911.16
+587,Gabby,Folder,M,11/2/1991,passable,ING-IT,2010.82,6,5/18/2017,4/18/2024,1910.82
+357,Cody,Ordelt,M,12/11/1995,faible,Prepa,2005.55,4,2/1/2018,8/31/2023,1905.55
+2,Euell,Gabbatt,M,5/2/1996,bien,Business,2003.15,7,8/20/2017,12/5/2023,1903.15
+64,Hebert,Weedall,M,22/12/1997,trés bien,Business,,9,9/16/2018,2/20/2021,
+857,Demetre,Pillinger,M,17/6/2005,faible,Business,,9,2/3/2017,6/20/2023,
+935,Michael,Medlicott,M,1/4/2001,trés bien,Licence-IT,,9,12/10/2017,5/5/2021,
+428,Steffen,Gilhooley,M,27/3/1996,passable,Prepa,,7,5/27/2018,4/13/2020,
+809,Anatol,Bertomier,M,19/9/2001,faible,Prepa,,7,10/23/2018,6/12/2023,
+726,Lorry,Croizier,M,7/8/1990,passable,Business,,5,2/11/2018,8/14/2023,
+882,Tann,Howel,M,23/5/1997,bien,Licence-IT,,3,3/10/2018,9/21/2021,
+518,Harvey,Petrescu,M,24/2/1997,faible,Business,,2,8/20/2017,12/12/2021,
+429,Erroll,Acome,M,11/6/1994,bien,Business,,1,6/21/2018,2/16/2023,
+864,Chucho,Killick,M,25/3/1993,bien,Licence-IT,,1,2/14/2016,9/30/2024,
